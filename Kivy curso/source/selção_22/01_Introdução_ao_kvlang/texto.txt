@@ -1,0 +1,4 @@
+Widgets são componentes de tela
+Kvlang é uma linguagem de marcação
+    kvlang separa a interface do código python
+    
