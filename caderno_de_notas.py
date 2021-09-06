@@ -154,3 +154,16 @@ r = Retangulo(largura=5, altura=5)
 r.largura = 10
 r.altura = 15
 print(r.area)
+
+
+# ESTUDO KIVY
+
+# WIDGET
+# Comando de posicionamento dos Widgets
+# pos, pos_hint, right, top, center, center_x, center_y
+# Comando de dimensionamento dos Widgets
+# size, size_hint, width, height, size_hint_x, size_hint_y
+# De widget é estendido as classes: Layout, Label, Image
+
+# LAYOUT
+# Layout estende de Widget
